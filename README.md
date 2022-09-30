@@ -1,5 +1,5 @@
 # CSE-310-HW
-**Any external libraries used. 
+** Any external libraries used. 
 Part1:
       import socket 
 Part2:
